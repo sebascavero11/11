@@ -79,3 +79,55 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 200px;
+  margin-right: 20px;
+}
+
+/* Estilos CSS */
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 200px;
+  margin-right: 20px;
+}
+
+/* Estilos CSS */
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 200px;
+  margin-right: 20px;
+}
+
+/* Estilos CSS */
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
